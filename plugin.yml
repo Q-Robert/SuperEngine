@@ -1,0 +1,11 @@
+name: SuperEngine
+main: net.myserver.engine.SuperEngine
+version: 1.0
+author: Inferides
+commands:
+  game:
+    description: game command alias.
+  kit:
+    description: kit command alias.
+  server:
+    description: server command alias.
