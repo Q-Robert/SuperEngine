@@ -19,7 +19,7 @@ import net.myserver.engine.server.SettingsListener;
 public class SuperEngine extends JavaPlugin {
 	
 	/**
-	 * @author Inferides / Q de Preter
+	 * @author Inferides / QR de Preter
 	 */
 	
 	private Plugin plugin;
